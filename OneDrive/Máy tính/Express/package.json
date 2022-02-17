@@ -1,0 +1,19 @@
+{
+	"name": "express",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon server.js"
+	},
+	"author": "MChi",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.19.2",
+		"express": "^4.17.2",
+		"md5": "^2.3.0",
+		"mongoose": "^6.2.2",
+		"nodemon": "^2.0.15"
+	}
+}
